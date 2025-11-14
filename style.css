@@ -12,6 +12,7 @@ body{
   width: 1350px;
   background-image: url("./assents/Rectangle\ 11.png"); /* Ele adiciona uma imagem como fundo */
   background-size: cover;
+  display: flex;
 
 }
 
