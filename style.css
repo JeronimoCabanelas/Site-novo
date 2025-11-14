@@ -8,10 +8,9 @@ body{
 
 .banner{
   
-  height: 760px;
+  height: 800px;
   width: 1350px;
   background-image: url("./assents/Rectangle\ 11.png"); /* Ele adiciona uma imagem como fundo */
-  background-repeat: no-repeat;
   background-size: cover;
 
 }
@@ -59,4 +58,23 @@ nav{
   font-size: 30px;
   color: #4c544c;
 
+}
+
+.texto-banner{
+
+  color: aliceblue;
+  font-size: 25px;
+
+}
+
+.botao-banner{
+
+  width: 130px;
+  height: 40px;
+  border-radius: 55px;
+  border: none;
+  background-color: #333333;
+  color: #ffffff;
+  font-weight: bold;
+  font-size: 19px;
 }
